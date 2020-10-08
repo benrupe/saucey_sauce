@@ -1,0 +1,57 @@
+body {
+	background-color: #3E38F2; 
+}
+
+h1 {
+	font-size:48px;
+	font-family: times new roman;
+	color: #040440
+	center
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #040440;
+	font-family: Times New Roman,sans-serif;
+}
+
+nav li {
+	float:left;
+}
+
+nav li a {
+	display: block;
+	color:white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+nav li a:hover  {
+	background-color: #040440;
+}
+
+footer {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #040440
+	font-size: 15px;
+	color: #040440
+}
+p {
+    font-size: 20px;
+}
+#summary {
+    font-size: 14px;
+}
+.even {
+    background-color: #3E38F2;
+}
+.odd {
+    background-color: #3E38F2 ;
+}
